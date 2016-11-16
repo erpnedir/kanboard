@@ -910,7 +910,7 @@ return array(
     'Remove group' => 'Grubu sil',
     'Group removed successfully.' => 'Grup başarıyla silindi.',
     'Unable to remove this group.' => 'Grup silinemedi.',
-    'Project Permissions' => 'Proje izimleri',
+    'Project Permissions' => 'Proje izinleri',
     'Manager' => 'Yönetici',
     'Project Manager' => 'Proje yöneticisi',
     'Project Member' => 'Proje üyesi',
