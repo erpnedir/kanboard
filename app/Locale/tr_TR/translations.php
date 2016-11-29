@@ -416,7 +416,7 @@ return array(
     'Time estimated' => 'Tahmini süre',
     'There is nothing assigned to you.' => 'Size atanan hiçbir şey yok.',
     'My tasks' => 'Görevlerim',
-    'Activity stream' => 'Güncel olay akışı',
+    'Activity stream' => 'Görev akışı',
     'Dashboard' => 'Anasayfa',
     'Confirmation' => 'Onay',
     'Allow everybody to access to this project' => 'Bu projeye herkesin erişimine izin ver',
