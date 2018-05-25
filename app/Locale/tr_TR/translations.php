@@ -1376,5 +1376,5 @@ return array(
     // '%s moved the task #%d to the position %d in the column "%s"' => '',
     // '%s moved the task #%d to the swimlane "%s"' => '',
     // '%sh spent' => '',
-    // '%sh estimated' => '',
+    '%sh estimated' => '%sh tahmin edildi',
 );
